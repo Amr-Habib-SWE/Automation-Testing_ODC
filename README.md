@@ -1,5 +1,5 @@
 # demonopcommerce_ODC
-The project consists of six feature:
+The project consists of six features:
 1-Register.
 2-Login.
 3-Change currencies.
