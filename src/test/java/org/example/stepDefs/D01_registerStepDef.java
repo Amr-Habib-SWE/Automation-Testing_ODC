@@ -51,7 +51,7 @@ public class D01_registerStepDef {
 
     @And("user enter email \"test1@example.com\"")
     public void enteremail() {
-        registerObj.enteremail().sendKeys("test15@example.com");
+        registerObj.enteremail().sendKeys("test22@example.com");
     }
 
     @And("user enter company name \"automation\"")

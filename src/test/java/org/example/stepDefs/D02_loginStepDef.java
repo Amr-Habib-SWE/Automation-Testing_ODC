@@ -24,7 +24,7 @@ public class D02_loginStepDef {
 
     @When("user login with \"valid\" \"test1@example.com\" and \"P@ssw0rd\"")
     public void validemail() {
-        loginObj.email().sendKeys("test15@example.com");
+        loginObj.email().sendKeys("test22@example.com");
         loginObj.password().sendKeys("P@ssw0rd");
     }
 
